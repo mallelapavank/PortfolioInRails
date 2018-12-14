@@ -29,8 +29,8 @@ puts "5 skills created"
     title: "Portfolio #{portfolio_item}",
     subtitle: "subtitle text",
     body: "The standard chunk of Lorem Ipsum used since the 1500s is reproduced below for those interested. Sections 1.10.32 and 1.10.33 from de Finibus Bonorum et Malorum by Cicero are also reproduced in their exact original form, accompanied by English versions from the 1914 translation by H. Rackham.",
-    main_image: "https://via.placeholder.com/350x200.png?text=Visit+WhoIsHostingThis.com",
-    thumb_image: "https://via.placeholder.com/600x400.png?text=Visit+WhoIsHostingThis.com"
+    main_image: "https://via.placeholder.com/600x400.png?text=www.pavanmallela.com",
+    thumb_image: "https://via.placeholder.com/350x200.png?text=www.pavanmallela.com"
   )
 end
 
